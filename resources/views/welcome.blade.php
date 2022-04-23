@@ -115,11 +115,11 @@
         }
 
         .text-sm {
-            font-size: .875rem
+            font-size: 1.5rem
         }
 
         .text-lg {
-            font-size: 1.125rem
+            font-size: 1.75rem
         }
 
         .leading-7 {
